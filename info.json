@@ -1,12 +1,19 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESCRIPTION###",
+  "name": "khaosmassive-frozen-food",
+  "title": "Massive Planets and More - Frozen Food",
+  "description": "Mod pack that consolidates all Frozen Food mods for Massive Planets and More into one mod.",
   "author": "QuingKhaos",
   "homepage": "",
   "version": "1.0.0",
   "factorio_version": "2.0",
   "dependencies": [
-    "base >= 2.0.0"
-  ]
+    "base >= 2.0.77",
+
+    "FrozenFood >= 1.2.2",
+    "FrozenFoodTweaks >= 1.1.0",
+    "frozen-food-aquilo-seabloom-algaculture >= 1.0.0",
+    "frozen-food-fulgora-coralmium-agriculture >= 1.0.0",
+    "frozen-food-lignumis >= 1.0.3"
+  ],
+  "spoiling_required": true
 }
