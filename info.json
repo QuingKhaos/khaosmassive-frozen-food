@@ -4,10 +4,12 @@
   "description": "Mod pack that consolidates all Frozen Food mods for Massive Planets and More into one mod.",
   "author": "QuingKhaos",
   "homepage": "",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
+
+    "cf-lib >= 1.6.0",
 
     "FrozenFood >= 1.2.2",
     "FrozenFoodTweaks >= 1.1.0",
